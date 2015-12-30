@@ -1,0 +1,28 @@
+name: jimmy
+favicon: null
+layout_spectrum: 0.5264822747558355
+typography_spectrum: 0.504891607677564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8704264147672802
+  lightness: 0.36861064238473773
+  saturation: 0.7904978333972394
+  rhythmicContrast: 0.8512795509304851
+purpose: []
